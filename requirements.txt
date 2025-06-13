@@ -1,0 +1,5 @@
+pandas
+gspread
+selenium
+oauth2client
+google-api-python-client
